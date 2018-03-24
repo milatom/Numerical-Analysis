@@ -1,2 +1,2 @@
 # Numerical-Analysis
-Programming in the course Numerical Analysis, use MATLAB
+Programming files in the course Numerical Analysis, using MATLAB
